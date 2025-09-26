@@ -1,0 +1,11 @@
+ticket_id,created_at,channel,user_input,intent,confidence,status,notes
+T-95D5F28A,2025-09-06T03:44:58,app,hello,hr_policy,0.13,OPEN,Low similarity
+T-D0657AD2,2025-09-06T03:52:18,app,letter generate for 'c009',hr_policy,0.15,OPEN,Low similarity
+T-DCDADF4F,2025-09-06T03:52:27,app,'c009',hr_policy,0.18,OPEN,Low similarity
+T-34576793,2025-09-06T03:54:26,app,Generate an **Experience Letter** for employee `C005` and download the `.txt`,hr_policy,0.21,OPEN,Low similarity
+T-5DB669EC,2025-09-06T04:04:08,app,Order lookup: 2023,order_status,0.0,OPEN,Order ID not found
+T-6B898EE7,2025-09-06T04:04:42,app,who is 'c004',hr_policy,0.08,OPEN,Low similarity
+T-33CE1E90,2025-09-06T04:10:10,app,Order lookup: o-2025-1012,order_status,0.0,OPEN,Order ID not found
+T-570EF8B5,2025-09-06T04:10:29,app,Order lookup: 0-2025-1012,order_status,0.0,OPEN,Order ID not found
+T-76ACCAA1,2025-09-26T19:14:30,app,Why mine work load is high,hr_policy,0.07,OPEN,Low similarity
+T-2351239C,2025-09-26T19:26:59,app,when will i get my 1crore salary,hr_policy,0.21,OPEN,Low similarity

@@ -1,0 +1,151 @@
+emp_id,name,role,location,manager,join_date,leave_balance,phone
+C001,Meera Menon,Store Associate,Hyderabad - Banjara Hills,Ankit Rao,13/10/21,3,9680402501
+C002,Meera Tripathi,HR Associate,Kolkata - Salt Lake,Kunal Kapoor,21/04/24,8,9808631930
+C003,Vihaan Kapoor,Inventory Exec,Hyderabad - Banjara Hills,Kunal Kapoor,04/01/24,3,9935868570
+C004,Sai Jadeja,Warehouse Packer,Delhi - Rohini,Rahul Khanna,18/02/23,8,9481367606
+C005,Aadhya Yadav,Warehouse Picker,Bengaluru - HSR,Sanjay Patel,07/07/22,20,9623708840
+C006,Mahika Desai,Inventory Exec,Pune - Kothrud,Sanjay Patel,09/08/24,14,9117574539
+C007,Arjun Joshi,Assistant Manager,Delhi - Saket,Rahul Khanna,10/11/21,20,9165354259
+C008,Riya Yadav,Store Cashier,Jaipur - Malviya Nagar,Ritu Mehta,17/08/21,9,9449825198
+C009,Ayaan Paul,HR Associate,Pune - Baner,Ritu Mehta,11/04/25,5,9575030988
+C010,Ayaan Nair,Store Associate,Pune - Koregaon Park,Rahul Khanna,07/02/25,15,9895169156
+C011,Muhammad Shetty,HR Associate,Pune - Hinjawadi,Sanjay Patel,07/10/24,20,9384200550
+C012,Anika Sinha,Store Associate,Pune - Koregaon Park,Priya Nair,08/11/22,2,9524578524
+C013,Diya Patel,Store Cashier,Delhi - Dwarka,Ritu Mehta,18/05/23,13,9476904382
+C014,Muhammad Kulkarni,Assistant Manager,Bengaluru - HSR,Neeraj Gupta,25/07/22,14,9294850989
+C015,Mahika Jadeja,Warehouse Picker,Bengaluru - HSR,Kunal Kapoor,13/09/23,6,9891039726
+C016,Avni Das,HR Associate,Ahmedabad - SG Highway,Ankit Rao,31/08/22,6,9955705581
+C017,Ira Iyer,Beauty Advisor,Delhi - Saket,Ankit Rao,07/04/23,3,9955006532
+C018,Riya Tripathi,Inventory Exec,Pune - Hinjawadi,Sanjay Patel,26/09/21,20,9237049902
+C019,Arnav Agarwal,Inventory Exec,Delhi - Rohini,Ritu Mehta,07/08/22,5,9453985659
+C020,Vihaan Chauhan,Beauty Advisor,Hyderabad - Banjara Hills,Rahul Khanna,01/03/25,17,9122368529
+C021,Vivaan Iyer,Store Manager,Hyderabad - Banjara Hills,Priya Nair,15/11/22,4,9627540089
+C022,Aadhya Verma,Inventory Exec,Jaipur - MI Road,Sanjay Patel,19/09/21,1,9387882217
+C023,Nitya Lal,Store Manager,Bengaluru - Whitefield,Neeraj Gupta,27/06/25,5,9807398882
+C024,Kavya Tripathi,Store Cashier,Kolkata - Salt Lake,Kunal Kapoor,01/04/22,6,9843720138
+C025,Pari Reddy,Inventory Exec,Jaipur - Malviya Nagar,Ritu Mehta,26/02/21,3,9825905374
+C026,Ira Menon,Store Manager,Pune - Hinjawadi,Priya Nair,22/12/24,13,9095776306
+C027,Isha Chopra,Inventory Exec,Delhi - CP,Zoya Khan,27/09/24,13,9365163715
+C028,Ananya Kulkarni,Store Associate,Hyderabad - Gachibowli,Ankit Rao,31/05/23,18,9634657976
+C029,Ayaan Joshi,Trainer,Chennai - T Nagar,Ankit Rao,09/10/24,9,9210248046
+C030,Muhammad Tripathi,Store Manager,Ahmedabad - Maninagar,Ankit Rao,30/10/21,20,9688872864
+C031,Aadhya Nair,Store Cashier,Ahmedabad - SG Highway,Kunal Kapoor,29/09/24,16,9959867585
+C032,Nitya Khan,Assistant Manager,Ahmedabad - Maninagar,Ankit Rao,29/07/24,8,9756202235
+C033,Arjun Agarwal,Warehouse Picker,Kolkata - Howrah,Neeraj Gupta,17/12/24,6,9045424956
+C034,Navya Chauhan,Trainer,Kolkata - Park Street,Priya Nair,22/12/22,9,9789475622
+C035,Diya Mehta,Store Associate,Kolkata - Park Street,Sanjay Patel,23/01/25,5,9899595604
+C036,Navya Naidu,Beauty Advisor,Mumbai - Powai,Sanjay Patel,02/11/22,6,9438294847
+C037,Vivaan Kapoor,Warehouse Picker,Delhi - Saket,Priya Nair,22/05/22,6,9862419423
+C038,Zara Chopra,Store Cashier,Bengaluru - Koramangala,Rahul Khanna,31/03/24,0,9959391582
+C039,Anika Jadeja,Warehouse Packer,Delhi - Saket,Ritu Mehta,28/12/23,13,9606044438
+C040,Myra Tripathi,Beauty Advisor,Kolkata - Salt Lake,Zoya Khan,15/06/24,17,9748532924
+C041,Pari Naidu,Trainer,Kolkata - Park Street,Priya Nair,10/10/23,10,9127387209
+C042,Aditya Nair,Store Manager,Ahmedabad - SG Highway,Kunal Kapoor,15/08/24,15,9402426353
+C043,Avni Kulkarni,Inventory Exec,Chennai - Adyar,Kunal Kapoor,09/07/22,9,9211157124
+C044,Avni Desai,HR Associate,Hyderabad - Banjara Hills,Ankit Rao,30/08/22,7,9337100296
+C045,Pari Mehta,Store Cashier,Mumbai - Powai,Kunal Kapoor,08/09/23,14,9392810456
+C046,Arjun Agarwal,Trainer,Hyderabad - Banjara Hills,Ankit Rao,31/08/21,17,9767254489
+C047,Ayaan Desai,Trainer,Mumbai - Bandra,Ankit Rao,05/07/24,6,9202514640
+C048,Ayaan Tripathi,Warehouse Packer,Ahmedabad - SG Highway,Ankit Rao,26/06/22,20,9581121210
+C049,Kavya Rao,Trainer,Hyderabad - Gachibowli,Rahul Khanna,18/08/23,9,9695400432
+C050,Aditya Nair,Trainer,Mumbai - Powai,Priya Nair,12/04/25,5,9469156403
+C051,Isha Gupta,Store Cashier,Bengaluru - Koramangala,Sanjay Patel,21/11/24,15,9298543394
+C052,Ira Paul,Store Associate,Jaipur - Malviya Nagar,Sanjay Patel,22/04/21,6,9564402128
+C053,Sara Menon,Store Associate,Pune - Baner,Zoya Khan,03/02/24,0,9509941847
+C054,Ira Tripathi,Warehouse Packer,Kolkata - Park Street,Kunal Kapoor,15/05/22,14,9539588274
+C055,Mahika Das,HR Associate,Hyderabad - Banjara Hills,Zoya Khan,26/01/25,9,9856844373
+C056,Mahika Gupta,Warehouse Picker,Pune - Kothrud,Ankit Rao,08/05/25,13,9077836894
+C057,Vivaan Agarwal,HR Associate,Chennai - T Nagar,Kunal Kapoor,24/07/21,16,9901890726
+C058,Ananya Sinha,Store Cashier,Chennai - Adyar,Sanjay Patel,11/10/22,20,9778006997
+C059,Diya Menon,Store Cashier,Ahmedabad - SG Highway,Zoya Khan,01/03/21,1,9303424611
+C060,Zara Lal,Store Manager,Pune - Kothrud,Neeraj Gupta,21/04/22,14,9646842509
+C061,Siya Rao,Store Manager,Hyderabad - Gachibowli,Zoya Khan,12/02/22,12,9813326083
+C062,Aarav Desai,Store Associate,Ahmedabad - Maninagar,Ankit Rao,28/05/24,11,9212776106
+C063,Vivaan Rao,Assistant Manager,Mumbai - Powai,Neeraj Gupta,04/07/21,9,9342783521
+C064,Mahika Paul,Assistant Manager,Hyderabad - Kukatpally,Ritu Mehta,06/07/25,3,9407266385
+C065,Aditya Das,Store Manager,Mumbai - Powai,Rahul Khanna,21/07/23,11,9665891208
+C066,Aadhya Gupta,Trainer,Pune - Koregaon Park,Kunal Kapoor,06/12/24,9,9610091253
+C067,Aanya Pandey,HR Associate,Kolkata - Howrah,Neeraj Gupta,30/04/23,20,9044903498
+C068,Vihaan Pandey,Inventory Exec,Jaipur - Malviya Nagar,Priya Nair,27/03/23,8,9118466507
+C069,Sai Agarwal,Trainer,Pune - Koregaon Park,Ankit Rao,15/04/24,6,9827752995
+C070,Kavya Khan,Store Cashier,Mumbai - Andheri,Priya Nair,04/01/23,7,9502141043
+C071,Siya Menon,Assistant Manager,Jaipur - MI Road,Priya Nair,29/01/25,16,9360984174
+C072,Nitya Iyer,Inventory Exec,Bengaluru - Indiranagar,Neeraj Gupta,18/07/22,19,9653954607
+C073,Navya Sinha,HR Associate,Pune - Kothrud,Kunal Kapoor,13/04/22,13,9344046319
+C074,Aditya Iyer,Store Cashier,Delhi - Dwarka,Rahul Khanna,05/03/25,11,9855531367
+C075,Navya Shetty,Store Associate,Hyderabad - Kukatpally,Zoya Khan,22/12/22,3,9526218375
+C076,Kavya Mitra,HR Associate,Jaipur - MI Road,Zoya Khan,01/03/21,5,9279311607
+C077,Aarav Iyer,HR Associate,Pune - Kothrud,Sanjay Patel,19/07/23,10,9133958170
+C078,Aditya Reddy,Assistant Manager,Kolkata - Park Street,Kunal Kapoor,29/04/23,8,9253165532
+C079,Zara Verma,Store Associate,Pune - Hinjawadi,Ankit Rao,21/04/25,4,9721441525
+C080,Riya Das,Inventory Exec,Delhi - Dwarka,Priya Nair,13/06/23,0,9403446249
+C081,Reyansh Das,Trainer,Ahmedabad - Maninagar,Rahul Khanna,14/06/23,3,9255333315
+C082,Vihaan Joshi,HR Associate,Pune - Hinjawadi,Ritu Mehta,29/01/25,20,9821167617
+C083,Sara Naidu,Trainer,Ahmedabad - Maninagar,Ritu Mehta,06/11/21,14,9043205340
+C084,Aarohi Rao,Store Cashier,Delhi - Dwarka,Kunal Kapoor,03/04/24,17,9970951659
+C085,Myra Menon,Inventory Exec,Delhi - Rohini,Priya Nair,23/05/22,14,9956393760
+C086,Meera Sinha,Inventory Exec,Delhi - CP,Rahul Khanna,17/02/24,12,9276983513
+C087,Meera Tripathi,Store Manager,Bengaluru - Indiranagar,Zoya Khan,19/02/24,12,9631799906
+C088,Ira Kapoor,Store Associate,Chennai - Velachery,Neeraj Gupta,15/03/22,10,9942108178
+C089,Nitya Joshi,Store Associate,Chennai - Adyar,Neeraj Gupta,08/05/24,12,9116697037
+C090,Myra Chopra,Warehouse Packer,Ahmedabad - SG Highway,Ankit Rao,26/09/22,15,9916547754
+C091,Reyansh Paul,Warehouse Picker,Bengaluru - Koramangala,Priya Nair,06/08/24,15,9851882729
+C092,Arjun Paul,Store Manager,Delhi - Rohini,Kunal Kapoor,17/12/22,0,9433302307
+C093,Isha Das,Beauty Advisor,Bengaluru - Indiranagar,Zoya Khan,27/08/25,15,9617400285
+C094,Avni Chopra,HR Associate,Kolkata - Salt Lake,Zoya Khan,02/05/22,9,9126608456
+C095,Siya Nair,Beauty Advisor,Hyderabad - Gachibowli,Priya Nair,13/06/24,11,9246090559
+C096,Aadhya Sharma,Store Manager,Ahmedabad - SG Highway,Sanjay Patel,04/02/23,8,9730261571
+C097,Aanya Kulkarni,Inventory Exec,Bengaluru - HSR,Kunal Kapoor,17/07/24,5,9807420109
+C098,Ira Bose,HR Associate,Ahmedabad - Maninagar,Priya Nair,23/03/25,20,9137831387
+C099,Nitya Bose,Inventory Exec,Bengaluru - HSR,Kunal Kapoor,23/01/23,16,9204491213
+C100,Ayaan Rao,Assistant Manager,Kolkata - Salt Lake,Kunal Kapoor,21/12/22,14,9083929906
+C101,Aanya Joshi,Beauty Advisor,Mumbai - Andheri,Kunal Kapoor,13/03/21,4,9073356693
+C102,Pari Iyer,Trainer,Bengaluru - Koramangala,Sanjay Patel,06/10/22,20,9290159177
+C103,Muhammad Chopra,Warehouse Packer,Ahmedabad - SG Highway,Rahul Khanna,05/10/21,2,9484068330
+C104,Aadhya Rao,Warehouse Packer,Bengaluru - Whitefield,Ritu Mehta,08/11/23,7,9121705385
+C105,Zara Chauhan,Store Cashier,Delhi - CP,Sanjay Patel,08/01/25,15,9578096463
+C106,Nitya Paul,HR Associate,Bengaluru - Whitefield,Sanjay Patel,27/10/23,1,9853192952
+C107,Aditya Reddy,Warehouse Picker,Jaipur - Malviya Nagar,Neeraj Gupta,04/07/24,9,9606551693
+C108,Mahika Desai,Store Associate,Mumbai - Bandra,Priya Nair,06/08/24,18,9225608563
+C109,Sai Das,Store Manager,Hyderabad - Gachibowli,Rahul Khanna,11/11/24,1,9144318393
+C110,Ananya Agarwal,Inventory Exec,Jaipur - MI Road,Ritu Mehta,11/05/22,14,9141098499
+C111,Aarohi Gupta,Trainer,Chennai - T Nagar,Neeraj Gupta,18/10/23,16,9484034250
+C112,Ayaan Mehta,Trainer,Ahmedabad - Maninagar,Priya Nair,09/08/21,13,9123400532
+C113,Ananya Joshi,Assistant Manager,Jaipur - Malviya Nagar,Rahul Khanna,21/09/21,3,9373971550
+C114,Arjun Tripathi,Inventory Exec,Ahmedabad - Maninagar,Neeraj Gupta,26/05/24,16,9193368555
+C115,Sara Tripathi,Trainer,Hyderabad - Gachibowli,Priya Nair,25/01/23,10,9695776049
+C116,Kavya Jadeja,Trainer,Pune - Koregaon Park,Kunal Kapoor,16/12/21,16,9668160910
+C117,Isha Mitra,Beauty Advisor,Kolkata - Howrah,Ankit Rao,21/04/23,16,9798701236
+C118,Ira Bose,Inventory Exec,Bengaluru - HSR,Ritu Mehta,24/01/24,11,9686824922
+C119,Ayaan Jadeja,Warehouse Packer,Pune - Kothrud,Ritu Mehta,10/09/23,11,9597255833
+C120,Pari Das,Beauty Advisor,Hyderabad - Banjara Hills,Zoya Khan,02/01/25,2,9342425961
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,

@@ -1,0 +1,293 @@
+emp_id,module,status,due_date
+C001,Customer Experience,Pending,2025-09-13
+C001,Onboarding Basics,In Progress,2025-09-07
+C001,Safety & Handling,Completed,2025-10-21
+C002,Safety & Handling,In Progress,2025-07-18
+C002,POS Compliance,Completed,2025-10-12
+C003,Loss Prevention,Pending,2025-07-24
+C003,Safety & Handling,Completed,2025-08-14
+C003,POS Compliance,Completed,2025-09-28
+C004,Safety & Handling,Pending,2025-10-01
+C005,Loss Prevention,In Progress,2025-09-04
+C006,Customer Experience,Completed,2025-09-05
+C006,Onboarding Basics,In Progress,2025-10-27
+C006,Safety & Handling,Completed,2025-08-28
+C007,Loss Prevention,In Progress,2025-10-06
+C007,Safety & Handling,In Progress,2025-07-08
+C008,Safety & Handling,In Progress,2025-10-30
+C009,Customer Experience,Pending,2025-08-14
+C009,Onboarding Basics,Pending,2025-10-12
+C010,Customer Experience,In Progress,2025-10-16
+C010,Loss Prevention,In Progress,2025-07-18
+C010,POS Compliance,Pending,2025-10-28
+C011,Onboarding Basics,Completed,2025-10-29
+C011,Customer Experience,Pending,2025-07-22
+C011,Product Knowledge,Pending,2025-08-23
+C012,Onboarding Basics,In Progress,2025-07-30
+C012,Product Knowledge,In Progress,2025-09-17
+C012,Customer Experience,In Progress,2025-07-16
+C013,POS Compliance,In Progress,2025-08-07
+C013,Loss Prevention,In Progress,2025-07-22
+C013,Product Knowledge,In Progress,2025-09-07
+C014,Loss Prevention,Pending,2025-08-18
+C014,POS Compliance,Pending,2025-10-30
+C014,Customer Experience,In Progress,2025-09-10
+C015,Product Knowledge,Pending,2025-07-16
+C015,Onboarding Basics,Pending,2025-08-21
+C016,Customer Experience,Completed,2025-10-22
+C016,Loss Prevention,In Progress,2025-09-06
+C017,Loss Prevention,In Progress,2025-09-03
+C017,Customer Experience,In Progress,2025-08-24
+C017,Product Knowledge,Completed,2025-10-04
+C018,Safety & Handling,Completed,2025-07-19
+C019,POS Compliance,Completed,2025-07-17
+C019,Product Knowledge,Pending,2025-07-29
+C020,Loss Prevention,Pending,2025-07-26
+C021,POS Compliance,In Progress,2025-09-12
+C022,Product Knowledge,In Progress,2025-08-30
+C023,POS Compliance,Pending,2025-08-30
+C023,Safety & Handling,In Progress,2025-10-10
+C023,Product Knowledge,Pending,2025-07-10
+C024,Onboarding Basics,Completed,2025-07-10
+C025,Loss Prevention,Pending,2025-09-20
+C025,Product Knowledge,In Progress,2025-09-29
+C025,Safety & Handling,Pending,2025-10-16
+C026,Customer Experience,In Progress,2025-10-23
+C026,Loss Prevention,Pending,2025-09-02
+C027,Customer Experience,Pending,2025-10-30
+C027,POS Compliance,Pending,2025-07-29
+C028,Safety & Handling,Pending,2025-08-24
+C029,POS Compliance,Pending,2025-08-22
+C030,POS Compliance,Completed,2025-11-03
+C030,Customer Experience,In Progress,2025-10-07
+C031,POS Compliance,In Progress,2025-10-23
+C031,Loss Prevention,In Progress,2025-10-04
+C032,POS Compliance,Completed,2025-08-07
+C033,Product Knowledge,Completed,2025-09-19
+C034,Product Knowledge,Completed,2025-07-31
+C034,Loss Prevention,In Progress,2025-09-17
+C035,Loss Prevention,Pending,2025-08-17
+C036,Product Knowledge,In Progress,2025-09-03
+C037,Customer Experience,Completed,2025-08-15
+C038,Safety & Handling,Pending,2025-11-04
+C039,Safety & Handling,Pending,2025-11-03
+C040,Onboarding Basics,In Progress,2025-10-10
+C041,Product Knowledge,Pending,2025-10-30
+C041,Loss Prevention,In Progress,2025-11-05
+C041,Safety & Handling,Completed,2025-10-01
+C042,Loss Prevention,Completed,2025-10-04
+C042,Safety & Handling,Pending,2025-10-09
+C042,Product Knowledge,Completed,2025-10-31
+C043,Loss Prevention,Completed,2025-09-16
+C044,Onboarding Basics,Completed,2025-09-25
+C044,Safety & Handling,Pending,2025-09-03
+C045,Product Knowledge,In Progress,2025-07-15
+C046,POS Compliance,Pending,2025-10-16
+C046,Customer Experience,Completed,2025-08-02
+C046,Loss Prevention,In Progress,2025-07-18
+C047,Loss Prevention,Pending,2025-09-11
+C047,Onboarding Basics,Pending,2025-08-01
+C048,Customer Experience,Completed,2025-09-11
+C048,Loss Prevention,In Progress,2025-11-01
+C049,Safety & Handling,Pending,2025-10-07
+C049,POS Compliance,Pending,2025-08-24
+C050,Onboarding Basics,Pending,2025-08-21
+C050,Product Knowledge,Pending,2025-08-16
+C051,Onboarding Basics,Pending,2025-10-10
+C051,POS Compliance,Pending,2025-10-18
+C051,Safety & Handling,Completed,2025-08-13
+C052,Safety & Handling,In Progress,2025-10-22
+C052,Loss Prevention,Completed,2025-09-22
+C052,POS Compliance,Completed,2025-07-26
+C053,Safety & Handling,Completed,2025-08-19
+C053,Customer Experience,In Progress,2025-11-04
+C054,Onboarding Basics,In Progress,2025-08-29
+C054,Loss Prevention,Pending,2025-11-02
+C055,POS Compliance,In Progress,2025-09-05
+C055,Customer Experience,Completed,2025-09-18
+C056,POS Compliance,Pending,2025-10-22
+C057,Customer Experience,Pending,2025-07-13
+C057,Safety & Handling,In Progress,2025-10-22
+C058,Safety & Handling,Pending,2025-10-10
+C058,Customer Experience,Completed,2025-08-05
+C059,POS Compliance,Pending,2025-08-10
+C060,Loss Prevention,In Progress,2025-09-29
+C060,Safety & Handling,Pending,2025-10-30
+C060,Onboarding Basics,Completed,2025-08-30
+C061,Loss Prevention,Completed,2025-07-11
+C061,POS Compliance,Pending,2025-10-13
+C062,Onboarding Basics,Pending,2025-10-11
+C062,Customer Experience,Pending,2025-09-20
+C063,Safety & Handling,Completed,2025-10-04
+C063,Product Knowledge,In Progress,2025-08-24
+C063,Loss Prevention,In Progress,2025-10-09
+C064,Product Knowledge,In Progress,2025-07-28
+C065,POS Compliance,Pending,2025-08-17
+C066,POS Compliance,Pending,2025-07-14
+C066,Product Knowledge,Pending,2025-08-23
+C066,Loss Prevention,Pending,2025-09-27
+C067,Product Knowledge,In Progress,2025-08-14
+C068,Onboarding Basics,In Progress,2025-10-14
+C068,Customer Experience,Completed,2025-07-31
+C068,POS Compliance,Completed,2025-09-22
+C069,Product Knowledge,In Progress,2025-08-11
+C069,Loss Prevention,In Progress,2025-10-05
+C069,Customer Experience,Completed,2025-08-23
+C070,Customer Experience,Completed,2025-07-09
+C070,Product Knowledge,Pending,2025-09-12
+C070,POS Compliance,Pending,2025-08-24
+C071,Product Knowledge,Completed,2025-07-21
+C071,POS Compliance,In Progress,2025-07-27
+C072,POS Compliance,In Progress,2025-10-17
+C073,Loss Prevention,Pending,2025-08-30
+C073,Customer Experience,Completed,2025-11-02
+C073,Onboarding Basics,Completed,2025-07-22
+C074,Safety & Handling,Pending,2025-08-21
+C075,Product Knowledge,In Progress,2025-10-29
+C075,POS Compliance,Pending,2025-09-12
+C075,Safety & Handling,In Progress,2025-07-30
+C076,Onboarding Basics,Completed,2025-08-05
+C076,Loss Prevention,In Progress,2025-10-25
+C077,Loss Prevention,Pending,2025-08-06
+C078,POS Compliance,Completed,2025-07-24
+C079,Loss Prevention,Completed,2025-07-17
+C079,Onboarding Basics,Pending,2025-10-15
+C080,Onboarding Basics,Completed,2025-07-21
+C080,POS Compliance,In Progress,2025-10-17
+C081,Customer Experience,Pending,2025-07-23
+C081,Onboarding Basics,Completed,2025-07-13
+C081,Safety & Handling,In Progress,2025-08-15
+C082,Onboarding Basics,Completed,2025-10-16
+C083,POS Compliance,In Progress,2025-07-31
+C083,Customer Experience,Completed,2025-08-21
+C083,Loss Prevention,Completed,2025-07-19
+C084,Product Knowledge,Completed,2025-08-22
+C084,Customer Experience,In Progress,2025-10-25
+C084,Loss Prevention,In Progress,2025-10-15
+C085,POS Compliance,In Progress,2025-07-20
+C085,Customer Experience,Completed,2025-10-13
+C085,Onboarding Basics,Completed,2025-09-13
+C086,POS Compliance,In Progress,2025-10-31
+C086,Product Knowledge,In Progress,2025-07-08
+C086,Loss Prevention,Completed,2025-07-20
+C087,Loss Prevention,In Progress,2025-10-05
+C087,Safety & Handling,Pending,2025-07-31
+C087,Product Knowledge,Completed,2025-10-02
+C088,Product Knowledge,Pending,2025-08-25
+C089,Customer Experience,Pending,2025-08-06
+C090,Product Knowledge,Pending,2025-07-23
+C091,Customer Experience,Pending,2025-07-25
+C092,Loss Prevention,In Progress,2025-09-17
+C092,Product Knowledge,Completed,2025-07-13
+C093,Safety & Handling,Pending,2025-08-26
+C093,Onboarding Basics,In Progress,2025-09-04
+C094,Product Knowledge,Pending,2025-09-16
+C094,Safety & Handling,Pending,2025-08-14
+C094,POS Compliance,Completed,2025-08-01
+C095,Loss Prevention,Completed,2025-07-30
+C095,Product Knowledge,Pending,2025-10-02
+C096,Onboarding Basics,In Progress,2025-09-12
+C096,Safety & Handling,Completed,2025-10-02
+C096,Customer Experience,Completed,2025-07-23
+C097,Safety & Handling,In Progress,2025-07-21
+C097,Customer Experience,Completed,2025-11-03
+C098,Product Knowledge,Pending,2025-08-02
+C099,Customer Experience,Pending,2025-10-24
+C100,POS Compliance,Pending,2025-10-23
+C101,Safety & Handling,In Progress,2025-10-12
+C101,Product Knowledge,Pending,2025-11-05
+C101,Customer Experience,Pending,2025-08-22
+C102,Customer Experience,Pending,2025-09-11
+C102,Safety & Handling,Pending,2025-07-26
+C102,Loss Prevention,Completed,2025-07-21
+C103,Safety & Handling,In Progress,2025-08-06
+C103,Loss Prevention,Completed,2025-11-05
+C104,Onboarding Basics,Completed,2025-10-10
+C105,Safety & Handling,Completed,2025-10-02
+C106,Safety & Handling,In Progress,2025-09-23
+C107,POS Compliance,In Progress,2025-09-25
+C107,Product Knowledge,Completed,2025-07-20
+C108,Customer Experience,Pending,2025-08-02
+C108,Safety & Handling,Pending,2025-09-30
+C108,Loss Prevention,In Progress,2025-09-08
+C109,Customer Experience,In Progress,2025-10-19
+C109,Product Knowledge,Completed,2025-09-15
+C110,Safety & Handling,Completed,2025-10-28
+C111,Safety & Handling,Pending,2025-10-25
+C111,Product Knowledge,Pending,2025-09-02
+C112,Onboarding Basics,In Progress,2025-07-30
+C113,Product Knowledge,Completed,2025-09-01
+C113,POS Compliance,In Progress,2025-08-16
+C113,Safety & Handling,Pending,2025-08-26
+C114,Customer Experience,Pending,2025-10-02
+C115,Customer Experience,In Progress,2025-09-06
+C115,Loss Prevention,Completed,2025-10-25
+C115,Safety & Handling,Completed,2025-09-10
+C116,Product Knowledge,Pending,2025-09-21
+C116,Safety & Handling,In Progress,2025-09-24
+C117,Product Knowledge,Completed,2025-07-15
+C117,Loss Prevention,Completed,2025-09-21
+C118,Product Knowledge,In Progress,2025-08-21
+C119,Onboarding Basics,Pending,2025-07-20
+C119,Product Knowledge,Pending,2025-08-21
+C119,Safety & Handling,Pending,2025-08-29
+C120,Loss Prevention,Completed,2025-08-08
+C121,Loss Prevention,In Progress,2025-08-16
+C122,Loss Prevention,Pending,2025-07-16
+C123,Product Knowledge,Completed,2025-07-29
+C124,Product Knowledge,Pending,2025-09-30
+C124,Onboarding Basics,In Progress,2025-09-18
+C124,Safety & Handling,Pending,2025-10-31
+C125,Onboarding Basics,Completed,2025-09-21
+C125,Safety & Handling,Pending,2025-08-17
+C126,Safety & Handling,Pending,2025-10-19
+C126,Product Knowledge,In Progress,2025-07-20
+C126,Onboarding Basics,Completed,2025-10-02
+C127,Safety & Handling,In Progress,2025-10-19
+C127,Customer Experience,Completed,2025-08-20
+C128,Product Knowledge,Pending,2025-08-02
+C128,Loss Prevention,Completed,2025-09-27
+C128,Safety & Handling,In Progress,2025-10-23
+C129,Product Knowledge,Completed,2025-08-10
+C130,Customer Experience,Completed,2025-10-18
+C130,Safety & Handling,In Progress,2025-09-25
+C131,Loss Prevention,In Progress,2025-10-24
+C132,Customer Experience,Pending,2025-08-20
+C133,Customer Experience,In Progress,2025-10-18
+C134,Safety & Handling,Completed,2025-08-21
+C134,POS Compliance,Pending,2025-09-29
+C135,Product Knowledge,Pending,2025-08-02
+C135,Safety & Handling,Pending,2025-08-28
+C135,Loss Prevention,In Progress,2025-09-25
+C136,Loss Prevention,Completed,2025-07-31
+C136,Customer Experience,In Progress,2025-09-26
+C137,POS Compliance,In Progress,2025-08-04
+C137,Customer Experience,In Progress,2025-10-21
+C137,Safety & Handling,Pending,2025-11-05
+C138,Loss Prevention,In Progress,2025-10-19
+C138,Customer Experience,Pending,2025-10-25
+C139,Loss Prevention,Pending,2025-08-23
+C139,Onboarding Basics,Completed,2025-07-26
+C139,POS Compliance,In Progress,2025-07-27
+C140,Product Knowledge,Completed,2025-08-17
+C140,Safety & Handling,Completed,2025-09-27
+C140,Customer Experience,Pending,2025-10-24
+C141,Product Knowledge,In Progress,2025-08-09
+C141,POS Compliance,Completed,2025-09-22
+C142,POS Compliance,Completed,2025-07-27
+C142,Onboarding Basics,Completed,2025-07-11
+C143,Safety & Handling,Pending,2025-09-17
+C143,Loss Prevention,In Progress,2025-08-31
+C144,POS Compliance,Pending,2025-07-28
+C145,Onboarding Basics,Pending,2025-08-10
+C146,Customer Experience,Pending,2025-10-08
+C146,POS Compliance,Completed,2025-10-16
+C146,Onboarding Basics,Completed,2025-07-15
+C147,Customer Experience,Completed,2025-10-26
+C147,Product Knowledge,Pending,2025-10-31
+C148,Loss Prevention,In Progress,2025-08-27
+C148,Onboarding Basics,Completed,2025-10-23
+C149,Onboarding Basics,In Progress,2025-09-19
+C150,Onboarding Basics,Completed,2025-09-09
+C150,Customer Experience,In Progress,2025-08-07
+C150,Product Knowledge,Pending,2025-07-23

@@ -1,0 +1,118 @@
+sku,name,city,store,stock
+SKU-0001,Liquid Lipstick,Chennai,T Nagar,2
+SKU-0002,Bluetooth Headphones,Hyderabad,Kukatpally,12
+SKU-0003,Kajal,Chennai,T Nagar,11
+SKU-0004,Conditioner 200ml,Ahmedabad,SG Highway,9
+SKU-0005,Face Wash 100ml,Jaipur,MI Road,7
+SKU-0006,Sunscreen SPF50,Kolkata,Howrah,10
+SKU-0007,Hair Wax,Bengaluru,Koramangala,12
+SKU-0008,Face Wash 100ml,Chennai,Adyar,17
+SKU-0009,Lip Balm,Delhi,CP,21
+SKU-0010,Lip Balm,Kolkata,Howrah,9
+SKU-0011,Liquid Lipstick,Pune,Koregaon Park,8
+SKU-0012,Bluetooth Headphones,Hyderabad,Banjara Hills,16
+SKU-0013,Face Wash 100ml,Kolkata,Salt Lake,6
+SKU-0014,Sunscreen SPF50,Ahmedabad,Maninagar,6
+SKU-0015,Shampoo 200ml,Bengaluru,HSR,8
+SKU-0016,Face Wash 100ml,Ahmedabad,Maninagar,9
+SKU-0017,Face Serum 50ml,Hyderabad,Gachibowli,1
+SKU-0018,Hand Sanitizer 100ml,Kolkata,Howrah,0
+SKU-0019,Deodorant,Hyderabad,Banjara Hills,9
+SKU-0020,Sunscreen SPF50,Pune,Baner,17
+SKU-0021,Hand Sanitizer 100ml,Mumbai,Andheri,10
+SKU-0022,Shampoo 200ml,Kolkata,Howrah,0
+SKU-0023,Sunscreen SPF50,Bengaluru,HSR,6
+SKU-0024,Lip Balm,Delhi,Rohini,6
+SKU-0025,Wireless Mouse,Bengaluru,Whitefield,10
+SKU-0026,Hand Sanitizer 100ml,Pune,Baner,10
+SKU-0027,Hand Sanitizer 100ml,Delhi,Dwarka,7
+SKU-0028,Face Wash 100ml,Pune,Baner,2
+SKU-0029,Body Lotion 250ml,Bengaluru,Whitefield,5
+SKU-0030,Liquid Lipstick,Pune,Hinjawadi,15
+SKU-0031,Deodorant,Ahmedabad,SG Highway,13
+SKU-0032,Body Lotion 250ml,Bengaluru,HSR,6
+SKU-0033,Lip Balm,Kolkata,Howrah,3
+SKU-0034,Face Serum 50ml,Ahmedabad,SG Highway,3
+SKU-0035,Hair Wax,Kolkata,Park Street,14
+SKU-0036,Conditioner 200ml,Jaipur,MI Road,0
+SKU-0037,Hand Sanitizer 100ml,Bengaluru,Koramangala,4
+SKU-0038,Conditioner 200ml,Kolkata,Howrah,11
+SKU-0039,Kajal,Ahmedabad,SG Highway,3
+SKU-0040,Shampoo 200ml,Bengaluru,Whitefield,16
+SKU-0041,Wireless Mouse,Mumbai,Powai,0
+SKU-0042,Body Lotion 250ml,Chennai,Velachery,8
+SKU-0043,Lip Balm,Hyderabad,Kukatpally,10
+SKU-0044,Wireless Mouse,Delhi,Dwarka,7
+SKU-0045,Kajal,Bengaluru,Whitefield,9
+SKU-0046,Hair Wax,Chennai,Adyar,0
+SKU-0047,Face Wash 100ml,Ahmedabad,Maninagar,5
+SKU-0048,Body Lotion 250ml,Pune,Baner,0
+SKU-0049,Lip Balm,Mumbai,Powai,1
+SKU-0050,Face Wash 100ml,Bengaluru,Koramangala,1
+SKU-0051,Kajal,Ahmedabad,SG Highway,7
+SKU-0052,Liquid Lipstick,Bengaluru,Indiranagar,16
+SKU-0053,Bluetooth Headphones,Delhi,Dwarka,1
+SKU-0054,Bluetooth Headphones,Jaipur,MI Road,12
+SKU-0055,Body Lotion 250ml,Bengaluru,HSR,7
+SKU-0056,Hand Sanitizer 100ml,Kolkata,Howrah,13
+SKU-0057,Conditioner 200ml,Kolkata,Howrah,9
+SKU-0058,Kajal,Chennai,T Nagar,5
+SKU-0059,Conditioner 200ml,Pune,Kothrud,7
+SKU-0060,Face Serum 50ml,Ahmedabad,SG Highway,7
+SKU-0061,Bluetooth Headphones,Delhi,Dwarka,0
+SKU-0062,Face Wash 100ml,Kolkata,Salt Lake,6
+SKU-0063,Face Serum 50ml,Chennai,T Nagar,6
+SKU-0064,Face Serum 50ml,Jaipur,MI Road,4
+SKU-0065,Lip Balm,Pune,Baner,11
+SKU-0066,Hair Wax,Pune,Hinjawadi,17
+SKU-0067,Deodorant,Kolkata,Park Street,2
+SKU-0068,Deodorant,Bengaluru,Indiranagar,1
+SKU-0069,Conditioner 200ml,Delhi,Dwarka,9
+SKU-0070,Wireless Mouse,Pune,Kothrud,9
+SKU-0071,Lip Balm,Delhi,Saket,17
+SKU-0072,Wireless Mouse,Mumbai,Bandra,11
+SKU-0073,Shampoo 200ml,Jaipur,MI Road,2
+SKU-0074,Hair Wax,Hyderabad,Gachibowli,13
+SKU-0075,Lip Balm,Chennai,Adyar,2
+SKU-0076,Sunscreen SPF50,Chennai,T Nagar,10
+SKU-0077,Sunscreen SPF50,Kolkata,Park Street,0
+SKU-0078,Deodorant,Chennai,T Nagar,0
+SKU-0079,Wireless Mouse,Ahmedabad,Maninagar,6
+SKU-0080,Face Serum 50ml,Mumbai,Bandra,0
+SKU-0081,Deodorant,Jaipur,Malviya Nagar,17
+SKU-0082,Shampoo 200ml,Chennai,Velachery,4
+SKU-0083,Kajal,Ahmedabad,Maninagar,7
+SKU-0084,Liquid Lipstick,Chennai,T Nagar,7
+SKU-0085,Liquid Lipstick,Chennai,T Nagar,17
+SKU-0086,Liquid Lipstick,Ahmedabad,SG Highway,6
+SKU-0087,Kajal,Ahmedabad,Maninagar,7
+SKU-0088,Sunscreen SPF50,Kolkata,Park Street,0
+SKU-0089,Liquid Lipstick,Delhi,Dwarka,6
+SKU-0090,Face Serum 50ml,Jaipur,MI Road,11
+SKU-0091,Face Serum 50ml,Ahmedabad,SG Highway,5
+SKU-0092,Hand Sanitizer 100ml,Ahmedabad,SG Highway,16
+SKU-0093,Lip Balm,Delhi,Dwarka,5
+SKU-0094,Shampoo 200ml,Bengaluru,Indiranagar,4
+SKU-0095,Bluetooth Headphones,Kolkata,Howrah,21
+SKU-0096,Sunscreen SPF50,Kolkata,Park Street,10
+SKU-0097,Shampoo 200ml,Hyderabad,Kukatpally,0
+SKU-0098,Bluetooth Headphones,Bengaluru,HSR,9
+SKU-0099,Bluetooth Headphones,Chennai,T Nagar,17
+SKU-0100,Kajal,Delhi,CP,3
+SKU-0101,Body Lotion 250ml,Kolkata,Howrah,3
+SKU-0102,Deodorant,Kolkata,Salt Lake,1
+SKU-0103,Shampoo 200ml,Hyderabad,Banjara Hills,7
+SKU-0104,Sunscreen SPF50,Pune,Koregaon Park,10
+SKU-0105,Kajal,Chennai,T Nagar,17
+SKU-0106,Kajal,Mumbai,Powai,0
+SKU-0107,Wireless Mouse,Jaipur,MI Road,17
+SKU-0108,Sunscreen SPF50,Chennai,Adyar,0
+SKU-0109,Hair Wax,Bengaluru,Whitefield,8
+SKU-0110,Deodorant,Ahmedabad,Maninagar,8
+SKU-0111,Face Serum 50ml,Hyderabad,Banjara Hills,1
+SKU-0112,Kajal,Hyderabad,Banjara Hills,8
+SKU-0113,Face Wash 100ml,Mumbai,Powai,1
+SKU-0114,Bluetooth Headphones,Hyderabad,Kukatpally,25
+SKU-0115,Kajal,Ahmedabad,SG Highway,0
+SKU-0116,Body Lotion 250ml,Mumbai,Powai,8
+SKU-0117,Face Serum 50ml,Pune,Baner,7
